@@ -1,0 +1,35 @@
+h1 {
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  color: #4d6b54
+}
+
+h2 {
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+h3 {
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight: lighter
+}
+
+p {
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 30px;
+}
+
+ul {
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  line-height: 20px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: auto;
+
+}
